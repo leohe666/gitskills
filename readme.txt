@@ -1,2 +1,2 @@
 what something this is readme.txt
-test
+test namedev
